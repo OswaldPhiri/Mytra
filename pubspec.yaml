@@ -39,7 +39,7 @@ dependencies:
 
   # SMS
   another_telephony: ^0.4.1
-  flutter_sms_inbox: ^1.1.0
+  flutter_sms_inbox: 1.0.5
 
   # Notification Listener
   notification_listener_service: ^1.0.0
